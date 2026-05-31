@@ -10,7 +10,7 @@ Lebovitz, S., Levina, N., & Lifshitz-Assaf, H. (2021). Is AI ground truth really
 
 Owan, V. J., Abang, K. B., Idika, D. O., Etta, E. O., & Bassey, B. A. (2023). Exploring the potential of artificial intelligence tools in educational measurement and assessment. Eurasia Journal of Mathematics, Science and Technology Education, 19(8), Article em2307. https://doi.org/10.29333/ejmste/13428
 
-Oyelude, A. A. (2024). Artificial intelligence (AI) tools for academic research. Library Hi Tech News, 41(8), 18–20. https://doi.org/10.1108/LHTN-08-2024-0131
+Chauke, T. A., Mkhize, T. R., Methi, L., & Dlamini, N. (2024). Postgraduate students’ perceptions on the benefits associated with artificial intelligence tools for academic success: The use of the ChatGPT AI tool. Journal of Curriculum Studies Research, 6(1), 44–59. https://doi.org/10.46303/jcsr.2024.4
 
 Phillips-Wren, G. (2012). AI tools in decision making support systems: A review. International Journal of Artificial Intelligence and Applications, 11(4). https://doi.org/10.1142/S0218213012400052
 
