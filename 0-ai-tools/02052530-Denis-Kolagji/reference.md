@@ -6,7 +6,7 @@ Fabiano, N., Gupta, A., Bhambra, N., Luu, B., Wong, S., Maaz, M., Fiedorowicz, J
 
 Fitria, T. N. (2021). Artificial intelligence (AI) in education: Using AI tools for teaching and learning process. Prosiding Seminar Nasional & Call for Paper STIE AAS, 4(1), 134–147. https://prosiding.stie-aas.ac.id/index.php/prosenas/article/view/106
 
-Lebovitz, S., Levina, N., & Lifshitz-Assaf, H. (2021). Is AI ground truth really true? The dangers of training and evaluating AI tools based on experts’ know-what. MIS Quarterly, 45(3), 1501–1526. https://doi.org/10.25300/MISQ/2021/16564
+Nguyen-Trung, K., Saeri, A. K., & Kaufman, S. (2024). Applying ChatGPT and AI-powered tools to accelerate evidence reviews. Human Behavior and Emerging Technologies, 2024, Article 8815424. https://doi.org/10.1155/2024/8815424
 
 Owan, V. J., Abang, K. B., Idika, D. O., Etta, E. O., & Bassey, B. A. (2023). Exploring the potential of artificial intelligence tools in educational measurement and assessment. Eurasia Journal of Mathematics, Science and Technology Education, 19(8), Article em2307. https://doi.org/10.29333/ejmste/13428
 
