@@ -1,6 +1,6 @@
 # References
 
-De Freitas, J., Agarwal, S., Schmitt, B., et al. (2023). Psychological factors underlying attitudes toward AI tools. Nature Human Behaviour, 7, 1845–1854. https://doi.org/10.1038/s41562-023-01734-2
+Tammets, K., & Ley, T. (2023). Integrating AI tools in teacher professional learning: A conceptual model and illustrative case. Frontiers in Artificial Intelligence, 6, Article 1255089. https://doi.org/10.3389/frai.2023.1255089
 
 Fabiano, N., Gupta, A., Bhambra, N., Luu, B., Wong, S., Maaz, M., Fiedorowicz, J. G., Smith, A. L., & Solmi, M. (2024). How to optimize the systematic review process using AI tools. JCPP Advances, 4(2), e12234. https://doi.org/10.1002/jcv2.12234
 
